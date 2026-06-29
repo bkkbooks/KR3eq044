@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eq044/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋王宇泰醫辨王太史證治準繩並醫論辨諸症明且盡矣豫嘗反復二書之餘抄纂精確詳明尤切於治療者名曰王宇泰醫辨凡上中下三卷乃以繕寫元祿壬申陽復之日成焉伊東大業綱
+  hash: sha256:b13a06e6b9f7d2a29351949dcf121fd61424ee5df572572302e9a11240cc85f8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eq044_jc_000-d6.h1s1}
+metadata:
+  title: 醫辨
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq044.xml
+hash: sha256:f60feb90d88699b67419d3d6367972b607728675da62b07af6176b1ed1a41ca5
