@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq044/v1
 canonical_location: https://kanripo.org/bkk/KR3eq044/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫辨
   identifiers:
@@ -17,16 +17,16 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq044_000.yaml, hash: 'sha256:fddbf89725b6b8191070a041b299d734956760254c6dd614a675c49bc227c836'}
-  - {seq: 1, filename: KR3eq044_001.yaml, hash: 'sha256:bacbe1e32643c0103febdfa445c3c517e70a07ac3bf1f10aa003be085dbf2aae'}
-  - {seq: 2, filename: KR3eq044_002.yaml, hash: 'sha256:0506faf3ba1f565602ef12168f4d2a3387f3c8da6e3373e56a313afda42e851a'}
-  - {seq: 3, filename: KR3eq044_003.yaml, hash: 'sha256:4a1c8a36636e973e7ed6aee337ae4f9a001b85fddcaa36c6fb144535996492c0'}
-  - {seq: 0, filename: KR3eq044_000.yaml, hash: 'sha256:fddbf89725b6b8191070a041b299d734956760254c6dd614a675c49bc227c836'}
+  - {seq: 0, filename: KR3eq044_000.yaml, hash: 'sha256:f60feb90d88699b67419d3d6367972b607728675da62b07af6176b1ed1a41ca5'}
+  - {seq: 1, filename: KR3eq044_001.yaml, hash: 'sha256:5f9614a562f77dd676ed0e143576a148f8ecae9e8dea726b5f3dfb64e077c036'}
+  - {seq: 2, filename: KR3eq044_002.yaml, hash: 'sha256:f094e3c892d6d82183b01b6a4d6a41011265dae16318251ed017e61d4114d331'}
+  - {seq: 3, filename: KR3eq044_003.yaml, hash: 'sha256:a7a11a91b6dcd12c636aba1f609600ea28a26834b3f80330acfb27061e90de71'}
+  - {seq: 0, filename: KR3eq044_000.yaml, hash: 'sha256:f60feb90d88699b67419d3d6367972b607728675da62b07af6176b1ed1a41ca5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq044_000.markers.yaml, hash: 'sha256:fa4d054c33e10835ac0290cb655ba708287d791150a79f0ca3bcb65b9d0e669b'}
-  - {seq: 1, role: markers, filename: assets/KR3eq044_001.markers.yaml, hash: 'sha256:f3fb96568713a336601d0f5c171ada60f0d9fe4405da311be6c31787442fda56'}
-  - {seq: 2, role: markers, filename: assets/KR3eq044_002.markers.yaml, hash: 'sha256:15f887fd11b21ad08fd5bb6fd1d2436b3ca29a15b333f26e2f40363f3a554aaf'}
-  - {seq: 3, role: markers, filename: assets/KR3eq044_003.markers.yaml, hash: 'sha256:8097b069b901c51ea5433a50cb909c82376f9452961968ae5b1deb840ff73c94'}
+  - {seq: 0, role: markers, filename: assets/KR3eq044_000.markers.yaml, hash: 'sha256:9226123c71d6c1330a0dcc8e45215fb451bc4ac1145e999a491267e5b917e22f'}
+  - {seq: 1, role: markers, filename: assets/KR3eq044_001.markers.yaml, hash: 'sha256:1cd52f5e7d2392d6cf365fe5c5a055fb87a242d18e9b2aa555862349d785c977'}
+  - {seq: 2, role: markers, filename: assets/KR3eq044_002.markers.yaml, hash: 'sha256:fb9a1116c0f66480cfdfb6c38580dfe497d677aad5bf17a1062b88dec953f6c4'}
+  - {seq: 3, role: markers, filename: assets/KR3eq044_003.markers.yaml, hash: 'sha256:5af353e10ef8cfed23377f5c31b7e3ea3c2fb69c483cc8421bdb2f87fac45dfc'}
 table_of_contents:
 - ref:
     seq: 0
@@ -888,4 +888,7 @@ table_of_contents:
   label: 跋王宇泰醫辨
   type: section
   level: 1
-hash: sha256:51de7c9c015072c9ed014f88dde833ee255ac8fbd19c6d6cd648fbe4a0affbd3
+hash: sha256:c2d39cce9cb214fdd3d364197c004f817a770e486c1067796bee2fc37693738b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
